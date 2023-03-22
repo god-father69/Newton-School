@@ -1,0 +1,1 @@
+Create an app using useEffect such that the coundown increases on each click. Write the code in given sections only and Do not delete it IDs of any element.
